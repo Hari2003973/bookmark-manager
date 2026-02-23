@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+input, button {
+  padding: 8px;
+  margin: 5px;
+}
+
+li {
+  background: white;
+  padding: 10px;
+  margin: 5px;
+  list-style: none;
+}
